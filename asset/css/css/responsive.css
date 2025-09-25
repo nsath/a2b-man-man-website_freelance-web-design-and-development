@@ -1,0 +1,548 @@
+/* media queries */
+
+@media (min-width: 576px), (-webkit-min-device-pixel-ratio:0) and (min-width: 576px) {
+
+  /* reset styles */
+
+  .col-sm {
+    max-width: 100%;
+  }
+
+  .col-sm-1 {
+    max-width: 8.33333%;
+  }
+
+  .col-sm-2 {
+    max-width: 16.66667%;
+  }
+
+  .col-sm-3 {
+    max-width: 25%;
+  }
+
+  .col-sm-4 {
+    max-width: 33.33333%;
+  }
+
+  .col-sm-5 {
+    max-width: 41.66667%;
+  }
+
+  .col-sm-6 {
+    max-width: 50%;
+  }
+
+  .col-sm-7 {
+    max-width: 58.33333%;
+  }
+
+  .col-sm-8 {
+    max-width: 66.66667%;
+  }
+
+  .col-sm-9 {
+    max-width: 75%;
+  }
+
+  .col-sm-10 {
+    max-width: 83.33333%;
+  }
+
+  .col-sm-11 {
+    max-width: 91.66667%;
+  }
+
+  .col-sm-12 {
+    max-width: 100%;
+  }
+
+  /* -- // end of reset styles -- */
+
+}
+
+@media (min-width: 768px), (-webkit-min-device-pixel-ratio:0) and (min-width: 768px) {
+
+  /* reset styles */
+
+  .col-md {
+    max-width: 100%;
+  }
+
+  .col-md-1 {
+    max-width: 8.33333%;
+  }
+
+  .col-md-2 {
+    max-width: 16.66667%;
+  }
+
+  .col-md-3 {
+    max-width: 25%;
+  }
+
+  .col-md-4 {
+    max-width: 33.33333%;
+  }
+
+  .col-md-5 {
+    max-width: 41.66667%;
+  }
+
+  .col-md-6 {
+    max-width: 50%;
+  }
+
+  .col-md-7 {
+    max-width: 58.33333%;
+  }
+
+  .col-md-8 {
+    max-width: 66.66667%;
+  }
+
+  .col-md-9 {
+    max-width: 75%;
+  }
+
+  .col-md-10 {
+    max-width: 83.33333%;
+  }
+
+  .col-md-11 {
+    max-width: 91.66667%;
+  }
+
+  .col-md-12 {
+    max-width: 100%;
+  }
+
+  /* -- // end of reset styles -- */
+
+
+}
+
+@media (min-width: 992px), (-webkit-min-device-pixel-ratio:0) and (min-width: 992px) {
+
+  /* reset styles */
+
+  .col-lg {
+    max-width: 100%;
+  }
+
+  .col-lg-1 {
+    max-width: 8.33333%;
+  }
+
+  .col-lg-2 {
+    max-width: 16.66667%;
+  }
+
+  .col-lg-3 {
+    max-width: 25%;
+  }
+
+  .col-lg-4 {
+    max-width: 33.33333%;
+  }
+
+  .col-lg-5 {
+    max-width: 41.66667%;
+  }
+
+  .col-lg-6 {
+    max-width: 50%;
+  }
+
+  .col-lg-7 {
+    max-width: 58.33333%;
+  }
+
+  .col-lg-8 {
+    max-width: 66.66667%;
+  }
+
+  .col-lg-9 {
+    max-width: 75%;
+  }
+
+  .col-lg-10 {
+    max-width: 83.33333%;
+  }
+
+  .col-lg-11 {
+    max-width: 91.66667%;
+  }
+
+  .col-lg-12 {
+    max-width: 100%;
+  }
+
+  /* -- // end of reset styles -- */
+
+
+}
+
+@media (min-width: 1200px), (-webkit-min-device-pixel-ratio:0) and (min-width: 1200px) {
+
+  /* reset styles */
+
+  .col-xl {
+    max-width: 100%;
+  }
+
+  .col-xl-1 {
+    max-width: 8.33333%;
+  }
+
+  .col-xl-2 {
+    max-width: 16.66667%;
+  }
+
+  .col-xl-3 {
+    max-width: 25%;
+  }
+
+  .col-xl-4 {
+    max-width: 33.33333%;
+  }
+
+  .col-xl-5 {
+    max-width: 41.66667%;
+  }
+
+  .col-xl-6 {
+    max-width: 50%;
+  }
+
+  .col-xl-7 {
+    max-width: 58.33333%;
+  }
+
+  .col-xl-8 {
+    max-width: 66.66667%;
+  }
+
+  .col-xl-9 {
+    max-width: 75%;
+  }
+
+  .col-xl-10 {
+    max-width: 83.33333%;
+  }
+
+  .col-xl-11 {
+    max-width: 91.66667%;
+  }
+
+  .col-xl-12 {
+    max-width: 100%;
+  }
+
+  /* -- // end of reset styles -- */
+
+
+}
+
+
+@media (min-width: 700px), (-webkit-min-device-pixel-ratio:0) and (min-width: 700px) {
+
+  /* index page style */
+
+  .index-page_banner_img-background {
+    height: 600px;
+    padding: 130px 10px 0 10px;
+    background: url(../../image/banner/van-town-night-large-unsplash_69_1_55_2_1920x600.jpg) no-repeat center 0;
+  }
+
+  .column_mv-service {
+    float: left;
+    margin: 0 0 0 0;
+  }
+
+  .column-left_service-image {
+    width: 25%;
+    padding: 0 0 0 0;
+  }
+
+  .column-right_service {
+    width: 75%;
+    padding: 5px 0 0 20px;
+  }
+
+  .content-container .col-12 { 
+    padding: 30px 0 0 0;
+  }
+
+  .main-footer {
+    max-width: 1040px;
+    margin: 0 auto 0 auto;
+    padding: 20px 0 0 0;
+  }
+
+  .main-footer .col-4 { 
+    width: 33%;
+    float: left;
+  }
+
+  .main-footer .col-4 .find-us_socials { 
+    padding: 0 20px 0 0;
+  }
+
+  .main-footer .col-4 .links-map {
+    padding: 0 4px 0 25px;
+  }
+
+  .main-footer .col-4 .contact-a2b {
+    padding: 0 0 0 15px;
+  }
+
+  h1.man-and-van_company-name {
+    font-size: 4.9em;
+  }
+
+  p.man-and-van_company_banner-slogan {
+    font-size: 2.18em;
+  }
+
+  .divide_spacer-divider {
+    height: 20px;
+  }
+
+  /* -- // end of index page style -- */
+
+}
+
+@media (min-width: 550px) and (max-width: 699px), (-webkit-min-device-pixel-ratio:0) and (min-width: 550px) and (max-width: 699px) {
+
+  /* index page style */
+
+  .index-page_banner_img-background {
+    height: 400px;
+    padding: 50px 10px 0 10px;
+    background: url(../../image/banner/van-town-night-large-unsplash_69_1_55_2_700x400.jpg) no-repeat center 0;
+  }
+
+  .column_mv-service {
+    float: left;
+  }
+
+  .column-left_service-image {
+    width: 40%;
+    padding: 0 10px 0 0;
+  }
+
+  .column-right_service {
+    width: 60%;
+    padding: 0 0 0 10px;
+  }
+
+  .content-container .col-12 { 
+    padding: 30px 0 0 0;
+  }
+
+  .main-footer {
+    padding: 0 0 0 0;
+  }
+
+  .main-footer .col-4 { 
+    max-width: 100%;
+    float: none;
+  }
+
+  .main-footer .col-4 .find-us_socials { 
+    padding: 20px 0 0 0;   
+  }
+
+  .main-footer .col-4 .links-map { 
+    padding: 30px 0 0 0;   
+    border-top: 1px solid #000000;
+  }
+
+  .main-footer .col-4 .contact-a2b {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #000000;
+  }
+
+  h1.man-and-van_company-name {
+    font-size: 3.8em;
+  }
+
+  p.man-and-van_company_banner-slogan {
+    font-size: 2.18em;
+  }
+
+  .divide_spacer-divider {
+    height: 30px;
+  }  
+
+  /* -- // end of index page style -- */
+
+}
+
+@media (min-width: 360px) and (max-width: 549px), (-webkit-min-device-pixel-ratio:0) and (min-width: 360px) and (max-width: 549px) {
+
+  /* index page style */
+
+  .index-page_banner_img-background {
+    height: 300px;
+    padding: 30px 10px 0 10px;
+    background: url(../../image/banner/van-town-night-large-unsplash_69_1_55_2_550x300.jpg) no-repeat center 0;
+  }
+
+  .column_mv-service {
+    float: none;
+  }
+
+  .column-left_service-image {
+    width: 100%;
+    padding: 0 0 0 0;
+  }
+
+  .column-right_service {
+    width: 100%;
+    padding: 0 0 0 0;
+  }
+
+  .content-container .col-12 { 
+    padding: 0 0 0 0;
+  }  
+
+  .main-footer {
+    padding: 0 0 0 0;
+  }
+
+  .main-footer .col-4 { 
+    max-width: 100%;
+    float: none;
+  }
+
+  .main-footer .col-4 .find-us_socials { 
+    padding: 20px 0 0 0;
+  }
+
+  .main-footer .col-4 .links-map {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #000000;
+  }
+
+  .main-footer .col-4 .contact-a2b {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #000000;
+  }
+
+  h1.man-and-van_company-name {
+    font-size: 2.64em;
+  }
+
+  p.man-and-van_company_banner-slogan {
+    font-size: 2.18em;
+  }
+
+  .divide_spacer-divider {
+    height: 30px;
+  }
+
+  /* -- // end of index page style -- */
+
+}
+
+@media (min-width: 50px) and (max-width: 359px), (-webkit-min-device-pixel-ratio:0) and (min-width: 50px) and (max-width: 359px) {
+
+  /* index page style */
+
+  .index-page_banner_img-background {
+    height: 300px;
+    padding: 20px 10px 0 10px;
+    background: url(../../image/banner/van-town-night-large-unsplash_69_1_55_2_360x300.jpg) no-repeat center 0;
+  }
+
+  .column_mv-service {
+    float: none;
+  }
+
+
+  .column-left_service-image {
+    width: 100%;
+    padding: 0 0 0 0;
+  }
+
+  .column-right_service {
+    width: 100%;
+    padding: 0 0 0 0;
+  }
+
+  .content-container .col-12 { 
+    padding: 0 0 0 0;
+  }  
+
+  .main-footer {
+    padding: 0 0 0 0;
+  }
+
+  .main-footer .col-4 {
+    max-width: 100%;
+    float: none;
+  }
+
+  .main-footer .col-4 .find-us_socials {
+    padding: 20px 0 0 0;
+  }
+
+  .main-footer .col-4 .links-map {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #000000;
+  }
+
+
+  .main-footer .col-4 .contact-a2b {
+    padding: 30px 0 0 0;
+    border-top: 1px solid #000000;
+  }
+
+  .divide_spacer-divider {
+    height: 30px;
+  }
+
+  h1.man-and-van_company-name {
+    font-size: 2.3em;
+  }
+
+  p.man-and-van_company_banner-slogan {
+    font-size: 1.98em;
+  }
+
+  /* -- // end of index page style -- */
+
+}
+
+@media (max-width: 576px), (-webkit-min-device-pixel-ratio:0) and (max-width: 576px) {
+  /* HERE */
+
+  h3.footer-h3 {
+    text-align: center;
+  }
+
+  .column-right_service h3 {
+    text-align: center;
+  }
+
+  p {
+    font-size: 14px;
+    margin: 15px 0;
+  }
+
+  .footer-bt_left {
+    float: none;
+    text-align: center;
+    margin: 0 0 2.1em;
+  }
+
+  .footer-bt_right {
+    float: none;
+    text-align: center;
+  }
+
+}
+
+
+/* -- // end of media queries -- */

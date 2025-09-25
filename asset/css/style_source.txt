@@ -1,0 +1,176 @@
+/* index page style */
+
+
+.index_man_van-service .row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.index-page_banner_img-background {
+  width: 100%;
+  background-color: #FFFFFF;
+}
+
+.content-container .col-12 { 
+  width: 100%;
+  background-color: #FFFFFF;
+}
+
+.main-footer {
+  width: 100%;
+  background-color: transparent;
+}
+
+
+.main-footer .col-4 {
+  height: auto;
+  background-position: 0 0;
+}
+
+h1.man-and-van_company-name {
+  margin: 0 0 0.5em 0; 
+  line-height: 50px;
+  text-align: center;
+  font-family: 'Lexend';
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+p.man-and-van_company_banner-slogan {
+  margin: 0 0 0.5em 0;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Lexend';
+}
+
+.divide_spacer-divider {
+  width: 100%;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.index-page_banner,
+.man-and-van_index-welcome-intro,
+.footer-main_footer-copyright {
+  width: 100%;
+  background-color: transparent;
+  padding: 0 0 0 0;
+}
+
+
+.man-van_service {
+  width: 100%;
+  background-color: #f3f3f3;
+  margin: 50px 0 20px 0;
+  padding: 40px 0 40px 0;
+}
+
+.content-container {
+  max-width: 1080px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+
+
+.index_man_van-service {
+  max-width: 1080px;
+  padding: 10px 20px 10px 20px;
+  margin: 0 auto 0 auto;
+  background-color: #FFFFFF;
+  border: 2px solid #E2E2E2;
+}
+
+.container-footer_main {
+  max-width: 100%;
+  padding: 20px 20px 20px 20px;
+  margin: 40px auto 0 auto;
+  position: relative;
+}
+
+
+footer .container {
+  max-width: 1080px;
+  padding: 10px 0 10px 0;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+
+.footer-bt_left {
+  float: left;
+}
+
+.footer-bt_right {
+  float: right;
+}
+
+.footer-bt_left p,
+.footer-bt_right p {
+  color: #000000;
+}
+
+main {
+  display: block;
+  background-color: #FFFFFF; 
+  padding: 0 0 0 0;
+}
+
+footer {
+  display: block;
+  padding: 0 0 0 0;
+  font-size: 1em;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+
+h3.footer-h3 {
+  font-size: 1.62em;
+  margin: 0 0 .5em 0;
+  color: #000000;
+  font-weight: bold;
+}
+
+img.responsive_page-logo {
+  display: block;
+  width: 50%;
+  min-width: 120px;
+  max-width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 20px;
+  -webkit-border-radius: 0;
+  -khtml-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  padding: 0 0 0 0;
+}
+
+img.listed-on-image,
+img.socials {
+  display: -moz-inline-stack;
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  -webkit-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  padding: 0 0 0 0;
+  width: 40px;
+  height: 40px;
+}
+
+.clear-custom {
+  clear: both;
+  line-height: 1px;
+}
+
+
+/* -- // end of index page style -- */
